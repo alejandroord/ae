@@ -1,0 +1,10 @@
+# Ignorar todos los archivos y carpetas
+*
+
+# No ignorar carpetas, pero ignorar su contenido
+!*/
+
+# No ignorar archivos .prproj, .aep y .aepx
+!*.prproj
+!*.aep
+!*.aepx
